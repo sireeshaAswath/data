@@ -7,7 +7,10 @@ import org.testng.annotations.Test;
 
 public class first_Register {
 	WebDriver driver;
-
+	@Test
+	public void GitHubTest() throws InterruptedException {
+		System.out.println("Test");
+	}
 	@Test
 	public void Register() throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\siree\\Desktop\\Selenium_Automation\\Library\\chromedriver.exe");
