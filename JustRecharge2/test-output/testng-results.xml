@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51467" started-at="2017-06-03T21:54:35Z" finished-at="2017-06-03T21:55:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51467" started-at="2017-06-03T21:54:35Z" finished-at="2017-06-03T21:55:26Z">
+      <class name="test_scripts.Scenario7_PopularRecharges">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test_scripts.Scenario7_PopularRecharges@68c4039c]" name="beforeTest" is-config="true" duration-ms="27187" started-at="2017-06-03T16:54:35Z" finished-at="2017-06-03T16:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="PopularRecharges()[pri:0, instance:test_scripts.Scenario7_PopularRecharges@68c4039c]" name="PopularRecharges" duration-ms="24239" started-at="2017-06-03T16:55:02Z" finished-at="2017-06-03T16:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopularRecharges -->
+      </class> <!-- test_scripts.Scenario7_PopularRecharges -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
